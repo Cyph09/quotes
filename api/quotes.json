@@ -1,16 +1,19 @@
-[{
-    "id": 1,
-    "quote": "beuty lies in the eyes of the beholder",
-    "author": "Unknown"
-  },
-  {
-    "id": 2,
-    "quote": "Work like a slave, live like a king",
-    "author": "Hard worker"
-  },
-  {
-    "id": 3,
-    "quote": "Mtaka cha uvunguni sharti ainame",
-    "author": "Swahili Proveb"
-  }
-]
+{
+  "message": "Success",
+  "quotes": [{
+      "id": 1,
+      "quote": "beuty lies in the eyes of the beholder",
+      "author": "Unknown"
+    },
+    {
+      "id": 2,
+      "quote": "Work like a slave, live like a king",
+      "author": "Hard worker"
+    },
+    {
+      "id": 3,
+      "quote": "Mtaka cha uvunguni sharti ainame",
+      "author": "Swahili Proveb"
+    }
+  ]
+}
